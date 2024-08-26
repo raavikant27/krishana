@@ -1,0 +1,12 @@
+/* src/styles.css */
+@media (max-width: 600px) {
+    .login-container, .signup-container {
+        padding: 20px;
+    }
+}
+
+@media (min-width: 601px) {
+    .login-container, .signup-container {
+        padding: 40px;
+    }
+}
